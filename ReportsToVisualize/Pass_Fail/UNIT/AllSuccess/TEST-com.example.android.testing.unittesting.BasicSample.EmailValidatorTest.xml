@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-04-12T18:12:17" hostname="lawn-143-215-119-239.lawn.gatech.edu" time="0.005">
+  <properties/>
+  <testcase name="emailValidator_InvalidEmailNoTld_ReturnsFalse" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.002"/>
+  <testcase name="emailValidator_CorrectEmailSimple_ReturnsTrue" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.0"/>
+  <testcase name="emailValidator_NullEmail_ReturnsFalse" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.0"/>
+  <testcase name="emailValidator_CorrectEmailSubDomain_ReturnsTrue" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.0"/>
+  <testcase name="emailValidator_InvalidEmailDoubleDot_ReturnsFalse" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.0"/>
+  <testcase name="emailValidator_InvalidEmailNoUsername_ReturnsFalse" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.0"/>
+  <testcase name="emailValidator_EmptyString_ReturnsFalse" classname="com.example.android.testing.unittesting.BasicSample.EmailValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

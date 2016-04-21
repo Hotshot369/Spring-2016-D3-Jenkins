@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorTest" tests="2" failures="0" errors="0" skipped="0" time="4.249" timestamp="2016-04-12T18:08:15" hostname="localhost">
+  <properties>
+    <property name="device" value="Nexus_5_API_23(AVD) - 6.0" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="changeText_newActivity" classname="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorTest" time="2.339" />
+  <testcase name="changeText_sameActivity" classname="com.example.android.testing.espresso.BasicSample.ChangeTextBehaviorTest" time="1.819" />
+</testsuite>
