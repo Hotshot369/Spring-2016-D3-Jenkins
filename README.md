@@ -1,13 +1,13 @@
 # Spring-2016-D3-Jenkins
 D3 Visualizations published as reports by a custom Jenkins Plugin after an android project builds in Jenkins. The data visualized are test and analysis reports.
 
-The folder named 'visualization-plugin' is supposed to be the Jenkins plugin source.
-1. Import it in IntelliJ IDEA. When prompted select 'Create project from existing sources'.
-2. If at any point there is a message like ‘non-managed pom.xml found’, just add as a maven project.
-3. Run > Edit configurations > + > Maven
-4. Give the configutation some name. E.g: MyPluginConfig
-5. In command line, set "-Dmaven.test.skip=true -DskipTests=true clean hpi:run" and click OK
-6. Now debug the plugin. This will start Jenkins server for you.
+The folder named 'visualization-plugin' is supposed to be the Jenkins plugin source.  
+1. Import it in IntelliJ IDEA. When prompted select 'Create project from existing sources'.  
+2. If at any point there is a message like ‘non-managed pom.xml found’, just add as a maven project.  
+3. Run > Edit configurations > + > Maven  
+4. Give the configutation some name. E.g: MyPluginConfig  
+5. In command line, set "-Dmaven.test.skip=true -DskipTests=true clean hpi:run" and click 'OK'  
+6. Now debug the plugin. This will start Jenkins server for you.  
 
 ##Using the Plugin:
 Select “New Item”.  
