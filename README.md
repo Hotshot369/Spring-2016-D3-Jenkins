@@ -1,5 +1,5 @@
 # Spring-2016-D3-Jenkins
-D3 Visualizations published as reports by a custom Jenkins Plugin after an android project builds in Jenkins. The data visualized are test and analysis reports.
+**Objective:** D3 Visualizations published as reports by a custom Jenkins Plugin after an android project builds in Jenkins. The data visualized are test & analysis reports.
 
 The folder named 'visualization-plugin' is supposed to be the Jenkins plugin source.  
 1. Import it in IntelliJ IDEA. When prompted select 'Create project from existing sources'.  
